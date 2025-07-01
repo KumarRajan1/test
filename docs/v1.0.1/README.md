@@ -1,5 +1,4 @@
 # Mappls Annotation Plugin
-# Testing .......
 
 The Mappls Annotation Plugin simplifies the way to set and adjust the visual properties of annotations on a Mappls map.
 
