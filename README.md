@@ -6,3 +6,4 @@ This API can be used to get an image of map with traveled route plotted on it. T
 
 rajan kumar
 new commit 
+kushwaha
