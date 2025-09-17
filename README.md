@@ -4,4 +4,4 @@
 This API can be used to get an image of map with traveled route plotted on it. The image size can be specified; which will dynamically create an image of varying zoom levels with the start and end locations plotted on it.
 
 new commit 
-rajan kumar 1
+rajan kumar 2
